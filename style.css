@@ -1,0 +1,50 @@
+body {
+  color: #F3F5F9;
+  font-family: 'Alfa Slab One', cursive;
+  box-sizing: border-box;
+  background-color: #3659a2;
+  background: url(dice.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+main {
+  width: 90%;
+  max-width: 1080px;
+  padding: 40px 0 0;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 3.80em;
+  color: #daedf2;
+}
+
+h2 {
+  font-size: 2.25em;
+  color: #daedf2;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid #3498db;
+  background-color: transparent;
+  height: 50px; 
+  width: 200px;
+  color: #3498db;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 1.5em;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+
+button:hover {
+  background-color: #4080bf;
+  color: #0A090C;
+}
